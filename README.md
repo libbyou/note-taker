@@ -45,10 +45,10 @@
   On the application's homepage, click the 'Get Started' button, which will take you to the notes page. Once on the notes page, you will see on the left-hand side a list of your previous notes. You can click on each of those existing notes to pull them up for you to read again. Or, on the right-hand side, you can enter a new note. You may also do this when looking at an existing note, by clicking the + button on the top right. After you've entered a title and some text for you new note, a save icon will appear on the top right. Click it to save your new note. Your new note will be saved at the end of your existing notes. To delete any notes, click the red delete button on the side of each existing note.
 
 
-https://github.com/libbyou/SVG-Logo-Maker/assets/144481823/7cf58cc3-0492-42a8-9ee4-87f6a8915849
+https://github.com/libbyou/note-taker/assets/144481823/5ac2db85-04fc-4d8a-a4c1-7c3740d901cf
 
 
-  [![Video of SVG Logo Generator App's Usage]](https://drive.google.com/file/d/1RypDMObc_eRDbB_G_I-ZJt-NMKCNn2SO/view?usp=sharing)
+[![Video of Note Taker's Usage]](https://drive.google.com/file/d/1BNxW5hDtp5VGAYQcVIAM6QSydoF8a_xb/view?usp=sharing)
 
   ## Contributing
 
