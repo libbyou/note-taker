@@ -38,11 +38,11 @@
 
   ## Installation
 
-  To install, open the command-line and type in the command 'npm i' to install the packages necessary to run this application.
+  N/A
 
   ## Usage
 
-  After installation, type in 'node server' in your command-line. From there, head over to the deployed site (https://note-taker-lyou-d2ec1363746b.herokuapp.com/) and click the 'Get Started' button, which will take you to the notes page. Once on the notes page, you will see on the left-hand side a list of your previous notes. You can click on each of those existing notes to pull them up for you to read again. Or, on the right-hand side, you can enter a new note. You may also do this when looking at an existing note, by clicking the + button on the top right. After you've entered a title and some text for you new note, a save icon will appear on the top right. Click it to save your new note. Your new note will be saved at the end of your existing notes. To delete any notes, click the red delete button on the side of each existing note.
+  On the application's homepage, click the 'Get Started' button, which will take you to the notes page. Once on the notes page, you will see on the left-hand side a list of your previous notes. You can click on each of those existing notes to pull them up for you to read again. Or, on the right-hand side, you can enter a new note. You may also do this when looking at an existing note, by clicking the + button on the top right. After you've entered a title and some text for you new note, a save icon will appear on the top right. Click it to save your new note. Your new note will be saved at the end of your existing notes. To delete any notes, click the red delete button on the side of each existing note.
 
 
 https://github.com/libbyou/SVG-Logo-Maker/assets/144481823/7cf58cc3-0492-42a8-9ee4-87f6a8915849
@@ -56,18 +56,13 @@ https://github.com/libbyou/SVG-Logo-Maker/assets/144481823/7cf58cc3-0492-42a8-9e
 
   ## Tests
 
-  To run tests, in your command-line, enter the command 'npm run test'. Using jest, tests will run on the shapes.test.js file. It will take in the given paramters that act as the user input and compare them to the expected rendered result.
-
-https://github.com/libbyou/SVG-Logo-Maker/assets/144481823/d9656505-ebf3-4fd3-bf80-af73b38474b3
-
-
-  [![Video of SVG Logo Generator App Testing]](https://drive.google.com/file/d/1RypDMObc_eRDbB_G_I-ZJt-NMKCNn2SO/view?usp=sharing)
+  N/A
 
   ## Technologies
 
   - Node.js
-  - Inquirer.js
-  - Jest.js
+  - Express.js
+  - uuid
   
   ## License
   

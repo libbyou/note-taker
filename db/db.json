@@ -2,17 +2,5 @@
     {
         "title": "Test Title",
         "text": "Test text"
-    },
-    {
-        "title": "This is a new note",
-        "text": "A note"
-    },
-    {
-        "title": "Note 3",
-        "text": "Words for a note"
-    },
-    {
-        "title": "Note 4",
-        "text": "More words for a note"
     }
 ]
