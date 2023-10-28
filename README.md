@@ -48,7 +48,7 @@
 https://github.com/libbyou/note-taker/assets/144481823/5ac2db85-04fc-4d8a-a4c1-7c3740d901cf
 
 
-[![Video of Note Taker's Usage]](https://drive.google.com/file/d/1BNxW5hDtp5VGAYQcVIAM6QSydoF8a_xb/view?usp=sharing)
+![Video of Note Taker's Usage](https://drive.google.com/file/d/1BNxW5hDtp5VGAYQcVIAM6QSydoF8a_xb/view?usp=sharing)
 
   ## Contributing
 
