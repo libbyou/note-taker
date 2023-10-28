@@ -1,6 +1,6 @@
 const router = require('express').Router();
 
-// Import our modular routers for /tips and /feedback
+// Import modular router for /notes
 const notesRouter = require('./notes');
 
 router.use('/notes', notesRouter);
